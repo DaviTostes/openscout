@@ -10,8 +10,6 @@ OpenScout analisa seu currículo automaticamente e busca vagas de tecnologia rel
 
 ### Variáveis de Ambiente
 
-Crie um arquivo `.env` na raiz do projeto com as seguintes chaves:
-
 ```bash
 OPENAI_API_KEY=sua_chave_aqui
 SERPER_API_KEY=sua_chave_aqui
